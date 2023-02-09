@@ -1,0 +1,30 @@
+#heading {
+background-color: rgba(241, 217, 185, 0.689);
+color: white;
+}
+
+#heading2 {
+    background-color: rgba(241, 217, 185, 0.689);
+    color: white;
+    }
+
+.button {
+background-color: rgba(241, 217, 185, 0.689);
+}
+
+.text {
+color: black;
+}
+
+#img {
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-right: 30px;
+}
+
+.ul {
+padding-left: 50px;
+padding-top: 30px;
+padding-bottom: 75px;
+}
